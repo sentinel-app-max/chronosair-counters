@@ -1,0 +1,528 @@
+{
+  "generated_utc": "2026-10-24T12:01:00Z",
+  "window_days": 21,
+  "stale_hours": 6.0,
+  "measured": 10,
+  "stale": 0,
+  "places": [
+    {
+      "location": "Nieuwoudtville_NC",
+      "regime": "pristine",
+      "station_name": "Karoo-NAQI",
+      "provider": "South Africa",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 1.0,
+      "age_hours": 1.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 509,
+      "window_other_stations": 0,
+      "window_median": 0.4,
+      "window_mean": 0.4,
+      "window_max": 1.3,
+      "pm25": 0.3,
+      "worse_than_pct": 26
+    },
+    {
+      "location": "Robertson_WC",
+      "regime": "rural",
+      "station_name": "Robertson Outdoor Sensor",
+      "provider": "AirGradient",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 1.0,
+      "age_hours": 1.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 509,
+      "window_other_stations": 0,
+      "window_median": 1.7,
+      "window_mean": 2.5,
+      "window_max": 23.6,
+      "pm25": 2.7,
+      "worse_than_pct": 63
+    },
+    {
+      "location": "KeurboomPark_CPT",
+      "regime": "coastal_metro",
+      "station_name": "Keurboom Park",
+      "provider": "AirGradient",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 1.0,
+      "age_hours": 1.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 509,
+      "window_other_stations": 0,
+      "window_median": 1.1,
+      "window_mean": 5.1,
+      "window_max": 39.3,
+      "pm25": 1.5,
+      "worse_than_pct": 54
+    },
+    {
+      "location": "CapeTown_CBD",
+      "regime": "coastal_metro",
+      "station_name": "Foreshore-NAQI",
+      "provider": "South Africa",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 1.0,
+      "age_hours": 1.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 195,
+      "window_other_stations": 2,
+      "window_median": 5.6,
+      "window_mean": 6.3,
+      "window_max": 17.0,
+      "pm25": 9.0,
+      "worse_than_pct": 84
+    },
+    {
+      "location": "Steelpoort_LP",
+      "regime": "industrial_corridor",
+      "station_name": "Steelpoort",
+      "provider": "South Africa",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 1.0,
+      "age_hours": 1.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 495,
+      "window_other_stations": 0,
+      "window_median": 8.5,
+      "window_mean": 10.0,
+      "window_max": 65.3,
+      "pm25": 4.8,
+      "worse_than_pct": 11
+    },
+    {
+      "location": "RichardsBay_Harbour",
+      "regime": "industrial_coastal",
+      "station_name": "Harbour West, KZN, ZA.",
+      "provider": "AirGradient",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 1.0,
+      "age_hours": 1.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 509,
+      "window_other_stations": 0,
+      "window_median": 11.1,
+      "window_mean": 13.9,
+      "window_max": 78.6,
+      "pm25": 0.1,
+      "worse_than_pct": 3
+    },
+    {
+      "location": "PTA_North",
+      "regime": "inland_metro",
+      "station_name": "PTA-NORTH",
+      "provider": "AirGradient",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 1.0,
+      "age_hours": 1.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 509,
+      "window_other_stations": 0,
+      "window_median": 16.4,
+      "window_mean": 17.1,
+      "window_max": 43.8,
+      "pm25": 6.6,
+      "worse_than_pct": 15
+    },
+    {
+      "location": "Johannesburg_CBD",
+      "regime": "inland_metro",
+      "station_name": "Little John Park ",
+      "provider": "AirGradient",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 4.0,
+      "age_hours": 4.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 509,
+      "window_other_stations": 0,
+      "window_median": 19.0,
+      "window_mean": 18.2,
+      "window_max": 53.4,
+      "pm25": 24.1,
+      "worse_than_pct": 62
+    },
+    {
+      "location": "Vanderbijlpark_NWU",
+      "regime": "vaal_priority_area",
+      "station_name": "North-West University Vanderbijilpark Campus",
+      "provider": "AirGradient",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 1.0,
+      "age_hours": 1.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 509,
+      "window_other_stations": 0,
+      "window_median": 19.5,
+      "window_mean": 22.6,
+      "window_max": 73.0,
+      "pm25": 0.3,
+      "worse_than_pct": 6
+    },
+    {
+      "location": "eMbalenhle_Secunda",
+      "regime": "priority_area_settlement",
+      "station_name": "eMbalenhle North",
+      "provider": "South Africa",
+      "collected_utc": "2026-10-24T12:00:49+00:00",
+      "run_age_hours": 0.0,
+      "station_age_hours": 2.0,
+      "age_hours": 2.0,
+      "state": "measured",
+      "window_days": 21,
+      "window_n": 509,
+      "window_other_stations": 0,
+      "window_median": 17.8,
+      "window_mean": 24.2,
+      "window_max": 185.1,
+      "pm25": 6.4,
+      "worse_than_pct": 8
+    }
+  ],
+  "own_units": [
+    {
+      "name": "ChronosAIR 01",
+      "status": "on_test",
+      "measured_utc": "2026-10-24T12:00:01Z",
+      "first_seen_utc": "2026-10-04T18:31:53Z",
+      "readings": 479,
+      "age_hours": 0.02,
+      "state": "measured",
+      "pm25_raw": 10.3,
+      "series_24h": [
+        {
+          "t": "2026-10-23T13:00:00Z",
+          "v": 1.2
+        },
+        {
+          "t": "2026-10-23T14:00:00Z",
+          "v": 1.0
+        },
+        {
+          "t": "2026-10-23T15:00:00Z",
+          "v": 10.1
+        },
+        {
+          "t": "2026-10-23T16:00:00Z",
+          "v": null
+        },
+        {
+          "t": "2026-10-23T17:00:00Z",
+          "v": 9.5
+        },
+        {
+          "t": "2026-10-23T18:00:00Z",
+          "v": 9.8
+        },
+        {
+          "t": "2026-10-23T19:00:00Z",
+          "v": 16.7
+        },
+        {
+          "t": "2026-10-23T20:00:00Z",
+          "v": 22.0
+        },
+        {
+          "t": "2026-10-23T21:00:00Z",
+          "v": 25.0
+        },
+        {
+          "t": "2026-10-23T22:00:00Z",
+          "v": 18.5
+        },
+        {
+          "t": "2026-10-23T23:00:00Z",
+          "v": 14.5
+        },
+        {
+          "t": "2026-10-24T00:00:00Z",
+          "v": 14.3
+        },
+        {
+          "t": "2026-10-24T01:00:00Z",
+          "v": null
+        },
+        {
+          "t": "2026-10-24T02:00:00Z",
+          "v": 16.2
+        },
+        {
+          "t": "2026-10-24T03:00:00Z",
+          "v": 41.4
+        },
+        {
+          "t": "2026-10-24T04:00:00Z",
+          "v": null
+        },
+        {
+          "t": "2026-10-24T05:00:00Z",
+          "v": 29.7
+        },
+        {
+          "t": "2026-10-24T06:00:00Z",
+          "v": 32.8
+        },
+        {
+          "t": "2026-10-24T07:00:00Z",
+          "v": 28.2
+        },
+        {
+          "t": "2026-10-24T08:00:00Z",
+          "v": 22.2
+        },
+        {
+          "t": "2026-10-24T09:00:00Z",
+          "v": null
+        },
+        {
+          "t": "2026-10-24T10:00:00Z",
+          "v": 18.8
+        },
+        {
+          "t": "2026-10-24T11:00:00Z",
+          "v": 19.7
+        },
+        {
+          "t": "2026-10-24T12:00:00Z",
+          "v": 10.3
+        }
+      ],
+      "mean_24h_raw": 18.1
+    },
+    {
+      "name": "ChronosAIR 02",
+      "status": "on_test",
+      "measured_utc": "2026-10-24T12:00:43Z",
+      "first_seen_utc": "2026-10-05T15:02:16Z",
+      "readings": 457,
+      "age_hours": 0.0,
+      "state": "measured",
+      "pm25_raw": 9.0,
+      "series_24h": [
+        {
+          "t": "2026-10-23T13:00:00Z",
+          "v": 1.0
+        },
+        {
+          "t": "2026-10-23T14:00:00Z",
+          "v": 0.0
+        },
+        {
+          "t": "2026-10-23T15:00:00Z",
+          "v": 1.0
+        },
+        {
+          "t": "2026-10-23T16:00:00Z",
+          "v": 9.8
+        },
+        {
+          "t": "2026-10-23T17:00:00Z",
+          "v": 10.8
+        },
+        {
+          "t": "2026-10-23T18:00:00Z",
+          "v": 7.8
+        },
+        {
+          "t": "2026-10-23T19:00:00Z",
+          "v": 14.0
+        },
+        {
+          "t": "2026-10-23T20:00:00Z",
+          "v": 20.0
+        },
+        {
+          "t": "2026-10-23T21:00:00Z",
+          "v": 23.2
+        },
+        {
+          "t": "2026-10-23T22:00:00Z",
+          "v": 18.8
+        },
+        {
+          "t": "2026-10-23T23:00:00Z",
+          "v": 11.8
+        },
+        {
+          "t": "2026-10-24T00:00:00Z",
+          "v": 14.0
+        },
+        {
+          "t": "2026-10-24T01:00:00Z",
+          "v": 11.7
+        },
+        {
+          "t": "2026-10-24T02:00:00Z",
+          "v": 14.7
+        },
+        {
+          "t": "2026-10-24T03:00:00Z",
+          "v": 24.4
+        },
+        {
+          "t": "2026-10-24T04:00:00Z",
+          "v": null
+        },
+        {
+          "t": "2026-10-24T05:00:00Z",
+          "v": 24.8
+        },
+        {
+          "t": "2026-10-24T06:00:00Z",
+          "v": 31.2
+        },
+        {
+          "t": "2026-10-24T07:00:00Z",
+          "v": 28.7
+        },
+        {
+          "t": "2026-10-24T08:00:00Z",
+          "v": 24.2
+        },
+        {
+          "t": "2026-10-24T09:00:00Z",
+          "v": 18.3
+        },
+        {
+          "t": "2026-10-24T10:00:00Z",
+          "v": 17.5
+        },
+        {
+          "t": "2026-10-24T11:00:00Z",
+          "v": 14.5
+        },
+        {
+          "t": "2026-10-24T12:00:00Z",
+          "v": 9.0
+        }
+      ],
+      "mean_24h_raw": 15.3
+    },
+    {
+      "name": "JWX 1",
+      "status": "on_test",
+      "measured_utc": "2026-10-24T12:00:46Z",
+      "first_seen_utc": "2026-10-06T06:37:50Z",
+      "readings": 398,
+      "age_hours": 0.0,
+      "state": "measured",
+      "pm25_raw": 6.7,
+      "series_24h": [
+        {
+          "t": "2026-10-23T13:00:00Z",
+          "v": 0.0
+        },
+        {
+          "t": "2026-10-23T14:00:00Z",
+          "v": 0.0
+        },
+        {
+          "t": "2026-10-23T15:00:00Z",
+          "v": 0.0
+        },
+        {
+          "t": "2026-10-23T16:00:00Z",
+          "v": 0.0
+        },
+        {
+          "t": "2026-10-23T17:00:00Z",
+          "v": 0.3
+        },
+        {
+          "t": "2026-10-23T18:00:00Z",
+          "v": 7.0
+        },
+        {
+          "t": "2026-10-23T19:00:00Z",
+          "v": 5.5
+        },
+        {
+          "t": "2026-10-23T20:00:00Z",
+          "v": 24.7
+        },
+        {
+          "t": "2026-10-23T21:00:00Z",
+          "v": 19.8
+        },
+        {
+          "t": "2026-10-23T22:00:00Z",
+          "v": 15.0
+        },
+        {
+          "t": "2026-10-23T23:00:00Z",
+          "v": 2.1
+        },
+        {
+          "t": "2026-10-24T00:00:00Z",
+          "v": 8.5
+        },
+        {
+          "t": "2026-10-24T01:00:00Z",
+          "v": null
+        },
+        {
+          "t": "2026-10-24T02:00:00Z",
+          "v": 29.5
+        },
+        {
+          "t": "2026-10-24T03:00:00Z",
+          "v": 21.3
+        },
+        {
+          "t": "2026-10-24T04:00:00Z",
+          "v": 23.8
+        },
+        {
+          "t": "2026-10-24T05:00:00Z",
+          "v": 8.0
+        },
+        {
+          "t": "2026-10-24T06:00:00Z",
+          "v": 22.5
+        },
+        {
+          "t": "2026-10-24T07:00:00Z",
+          "v": 15.3
+        },
+        {
+          "t": "2026-10-24T08:00:00Z",
+          "v": 9.3
+        },
+        {
+          "t": "2026-10-24T09:00:00Z",
+          "v": null
+        },
+        {
+          "t": "2026-10-24T10:00:00Z",
+          "v": 10.7
+        },
+        {
+          "t": "2026-10-24T11:00:00Z",
+          "v": 8.0
+        },
+        {
+          "t": "2026-10-24T12:00:00Z",
+          "v": 6.7
+        }
+      ],
+      "mean_24h_raw": 10.8
+    }
+  ]
+}
