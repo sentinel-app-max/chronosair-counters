@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-11-22T11:01:54Z",
-  "runs": 2519,
-  "rows": 25190,
-  "paired_readings": 23489,
+  "generated_utc": "2026-11-22T12:00:28Z",
+  "runs": 2520,
+  "rows": 25200,
+  "paired_readings": 23499,
   "no_live_reference": 1701,
   "locations": 10,
   "first_run_utc": "2026-08-03T06:18:22+00:00",
-  "last_run_utc": "2026-11-22T11:01:43+00:00",
+  "last_run_utc": "2026-11-22T12:00:17+00:00",
   "days_running": 112
 }
